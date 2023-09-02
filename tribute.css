@@ -3,7 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background-color:whitesmoke;
+    line-height: 1.5;
+    color: rgb(119, 87, 22);
+}
 
 #main{
-    
+    margin: 50px 80px 40px ;
+    /* max-width: 00px; */
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 10px 5px wheat;
+    text-align: center;
 }
