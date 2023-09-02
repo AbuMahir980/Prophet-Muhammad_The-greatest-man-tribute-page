@@ -27,3 +27,12 @@ body {
     border-radius: 5px;
     padding: 20px 5px;
 }
+
+#main #img-div #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 5px;
+}
