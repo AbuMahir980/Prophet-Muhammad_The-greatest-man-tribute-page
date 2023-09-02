@@ -57,5 +57,29 @@ body {
     margin: auto;
     max-width: 60%;
     font-size: 20px;
-    
+    margin-bottom: 10px;
+    color:chocolate;
+}
+
+#main .tribute-topics {
+    font-size: 20px;
+    margin: 10px 0px;
+}
+
+#main .tribute-sub-topics{
+    text-align: left;
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+#main .contents {
+    text-align: justify;
+    max-width: 60%;
+    margin: 0 auto;
+    padding-bottom: 10px 
+}
+
+#main .footer {
+    padding: 20px;
+    margin: 20px;
 }
