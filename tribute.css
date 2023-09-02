@@ -51,3 +51,11 @@ body {
     font-size: 30px;
     text-decoration: underline;
 }
+
+#main .tribute-tagline {
+    text-align: left;
+    margin: auto;
+    max-width: 60%;
+    font-size: 20px;
+    
+}
