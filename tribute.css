@@ -7,6 +7,7 @@ body {
     background-color:whitesmoke;
     line-height: 1.5;
     color: rgb(119, 87, 22);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #main{
@@ -17,4 +18,12 @@ body {
     border: 2px solid white;
     box-shadow: 5px 5px 10px 5px wheat;
     text-align: center;
+}
+
+#main #title {
+    font-size: 60px;
+    margin: 20px 20px 40px;
+    background-color: wheat;
+    border-radius: 5px;
+    padding: 20px 5px;
 }
